@@ -1,0 +1,93 @@
+@media (min-width: 350px) and (max-width: 449.99px){
+	/* primary */
+	.intro{
+		padding-top: 280px;
+	}
+	.box{
+		position: absolute;
+		top: calc(15% - 150px);
+		left: calc(30% - 100px);
+		width: 200px;
+		height: 300px;
+	}
+	/* about */
+	.my-img{
+		width: 230px;
+		height: 230px;
+		border-radius: 100%;
+		left: 19%;
+		top: -520%;
+		position: absolute;
+		border: 5px solid #A8EB12;
+	}
+}
+@media (min-width: 450px) and (max-width: 575.99px){
+	/* primary */
+	.intro{
+		padding-top: 320px;
+	}
+	.box{
+		position: absolute;
+		top: calc(15% - 150px);
+		left: calc(30% - 100px);
+		width: 200px;
+		height: 300px;
+	}
+	/* about */
+	.my-img{
+		width: 230px;
+		height: 230px;
+		border-radius: 100%;
+		left: 22%;
+		top: -520%;
+		position: absolute;
+		border: 5px solid #A8EB12;
+	}
+}
+@media (min-width: 576px) and (max-width: 767.98px){
+	/* primary */
+	.intro{
+		padding-top: 320px;
+	}
+	.box{
+		position: absolute;
+		top: calc(10% - 150px);
+		left: calc(35% - 100px);
+		width: 200px;
+		height: 300px;
+	}
+	/* about */
+	.my-img{
+		width: 230px;
+		height: 230px;
+		border-radius: 100%;
+		left: 27%;
+		top: -520%;
+		position: absolute;
+		border: 5px solid #A8EB12;
+	}
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+	/* about */
+	.my-img{
+		width: 230px;
+		height: 230px;
+		border-radius: 100%;
+		left: 33%;
+		top: -520%;
+		position: absolute;
+		border: 5px solid #A8EB12;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199.98px){
+	/* about */
+	.my-img{
+		width: 230px;
+		height: 230px;
+		border-radius: 100%;
+		left: 37%;
+		top: -520%;
+		position: absolute;
+		border: 5px solid #A8EB12;
+	}
+}

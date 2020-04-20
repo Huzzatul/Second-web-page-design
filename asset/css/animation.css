@@ -1,0 +1,52 @@
+/* skill section */
+@keyframes cv-download
+{
+  0%{ background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12); border-radius: 200px 50px 100px 120px;}
+  5%{ background-image: linear-gradient(to left top, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+  10%{ background-image: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12); border-radius: 100px 150px 50px 20px;}
+  15%{ background-image: linear-gradient(to bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+  20%{ background-image: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12); border-radius: 50px 100px 150px 200px;}
+  25%{ background-image: linear-gradient(to left bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+  30%{ background-image: linear-gradient(to left, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+  35%{ background-image: linear-gradient(to left bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12); border-radius: 220px 30px 80px 120px;}
+  40%{ background-image: linear-gradient(to left top, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+  45%{ background-image: linear-gradient(to top, #051937, #004d7a, #008793, #00bf72, #a8eb12); border-radius: 180px 100px 70px 200px;}
+  50%{ background-image: radial-gradient(circle, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+  55%{ background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12); border-radius: 50px 100px 150px 200px;}
+  60%{ background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+  65%{ background-image: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12); border-radius: 180px 100px 70px 200px;}
+  75%{ background-image: linear-gradient(to bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+  80%{ background-image: linear-gradient(to left bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12); border-radius: 220px 30px 80px 120px;}
+  85%{ background-image: linear-gradient(to left, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+  90%{ background-image: linear-gradient(to left top, #051937, #004d7a, #008793, #00bf72, #a8eb12); border-radius: 200px 50px 100px 120px;}
+  95%{ background-image: linear-gradient(to top, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+  100%{ background-image: linear-gradient(to left top, #051937, #004d7a, #008793, #00bf72, #a8eb12); border-radius: 50px 100px 150px 200px;}
+}
+@keyframes progress-1{
+  0%{ width: 0%;}
+  100%{ width: 75%;}
+}
+@keyframes progress-2{
+  0%{ width: 0%;}
+  100%{ width: 50%;}
+}
+@keyframes progress-3{
+  0%{ width: 0%;}
+  100%{ width: 20%;}
+}
+@keyframes progress-4{
+  0%{ width: 0%;}
+  100%{ width: 70%;}
+}
+@keyframes progress-5{
+  0%{ width: 0%;}
+  100%{ width: 50%;}
+}
+@keyframes progress-6{
+  0%{ width: 0%;}
+  100%{ width: 40%;}
+}
+@keyframes progress-7{
+  0%{ width: 0%;}
+  100%{ width: 55%;}
+}
